@@ -60,5 +60,6 @@ This analysis was conducted to understand overall pizza sales performance based 
 >All queries in this project are written using MySQL syntax.
 >Time-based filtering is applied through MySQL date functions such as MONTH(), QUARTER(), DAYNAME(), and HOUR() within the WHERE clause to analyze monthly, quarterly, daily, and hourly sales trends.
 
-## DASHBOARD
+## Dashboard Interaction 
+<img width="856" height="457" alt="Screenshot 2025-12-28 093344" src="https://github.com/user-attachments/assets/de378542-da78-47b1-846b-9b0d2205faa2" 
 
