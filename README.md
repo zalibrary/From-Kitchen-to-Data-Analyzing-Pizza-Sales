@@ -1,4 +1,4 @@
-## From-Kitchen-to-Data-Analyzing-Pizza-Sales🍕
+## From Kitchen to Data Analyzing Pizza Sales🍕
 This analysis was conducted to understand overall pizza sales performance based on available transaction data. The analysis focuses on measuring key performance indicators, sales patterns based on time, and product contributions to total sales.
 
 ## About Data
