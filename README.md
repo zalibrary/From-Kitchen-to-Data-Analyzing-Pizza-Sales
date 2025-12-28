@@ -51,6 +51,11 @@ This analysis was conducted to understand overall pizza sales performance based 
 >The Top 5 Best Sellers analysis is conducted to identify pizza products with the highest sales.
 >This information is useful to support marketing, promotion, and flagship product development strategies.
 
-H. Bottom 5 Best Sellers by Total Pizzas Sold
+# H. Bottom 5 Best Sellers by Total Pizzas Sold
 >The Bottom 5 Best Sellers analysis is conducted to identify products with the lowest sales performance.
 >The results of this analysis can be used as evaluation material in decision making related to product improvement, promotion, or menu rationalization.
+
+
+# NOTE
+>All queries in this project are written using MySQL syntax.
+>Time-based filtering is applied through MySQL date functions such as MONTH(), QUARTER(), DAYNAME(), and HOUR() within the WHERE clause to analyze monthly, quarterly, daily, and hourly sales trends.
