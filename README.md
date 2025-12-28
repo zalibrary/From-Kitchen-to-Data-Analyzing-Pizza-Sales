@@ -19,13 +19,13 @@ This analysis was conducted to understand overall pizza sales performance based 
 | pizza_name              | Full name of the pizza product                               | text           |
 
 # A.Key Performance Indicators (KPIs)
-KPI analysis is conducted to measure overall business performance, including:
+>KPI analysis is conducted to measure overall business performance, including:
 - Total Revenue
 - Average Order Value
 - Total Pizzas Sold
 - Total Orders
 - Average Pizzas per Order
-These indicators are used to provide a concise overview of sales levels, average transaction values, and customer purchase volumes.
+>These indicators are used to provide a concise overview of sales levels, average transaction values, and customer purchase volumes.
 
 # B.Daily Trend for Total Orders
 > Daily trend analysis is conducted to identify patterns in the number of orders each day.
@@ -38,3 +38,19 @@ These indicators are used to provide a concise overview of sales levels, average
 # D. Percentage of Sales by Pizza Category
 >This analysis aims to determine the contribution of each pizza category to total sales. 
 >By comparing the sales percentage of each category, it is possible to identify the categories that are most popular with customers.
+
+# E. Percentage of Sales by Pizza Size
+>An analysis of sales percentages based on pizza size was conducted to understand customer preferences regarding product size. 
+>The results can be used as a basis for determining stock and pricing strategies.
+
+# F. Total Pizzas Sold by Pizza Category
+>This analysis measures the number of pizzas sold in each product category.
+>The goal is to compare sales volumes between categories and identify the categories with the highest sales performance.
+
+# G. Top 5 Best Sellers by Total Pizzas Sold
+>The Top 5 Best Sellers analysis is conducted to identify pizza products with the highest sales.
+>This information is useful to support marketing, promotion, and flagship product development strategies.
+
+H. Bottom 5 Best Sellers by Total Pizzas Sold
+>The Bottom 5 Best Sellers analysis is conducted to identify products with the lowest sales performance.
+>The results of this analysis can be used as evaluation material in decision making related to product improvement, promotion, or menu rationalization.
