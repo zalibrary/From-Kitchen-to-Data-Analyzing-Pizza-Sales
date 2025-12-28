@@ -55,6 +55,13 @@ This analysis was conducted to understand overall pizza sales performance based 
 >The Bottom 5 Best Sellers analysis is conducted to identify products with the lowest sales performance.
 >The results of this analysis can be used as evaluation material in decision making related to product improvement, promotion, or menu rationalization.
 
+## 🛠 Tools & Techniques
+>All queries were written and executed using MySQL (MySQL Workbench)
+>Used SQL functions such as:
+>SUM(), COUNT(), AVG() for KPI calculations
+>GROUP BY for aggregation
+>ORDER BY and LIMIT for ranking best and worst sellers
+>Date functions like DATE(), HOUR(), MONTH() for trend analysi
 
 ## NOTE 📝
 >All queries in this project are written using MySQL syntax.
