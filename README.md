@@ -18,6 +18,7 @@ This analysis was conducted to understand overall pizza sales performance based 
 | pizza_ingredients       | List of ingredients used in the pizza                        | text           |
 | pizza_name              | Full name of the pizza product                               | text           |
 
+## 🔍 Analysis Overview
 ## A.Key Performance Indicators (KPIs)📊 
 >KPI analysis is conducted to measure overall business performance, including:
 - Total Revenue
@@ -68,4 +69,8 @@ This analysis was conducted to understand overall pizza sales performance based 
 ## Dashboard Interaction 
 ![Screenshot (344).](https://github.com/user-attachments/assets/cfb44622-c71a-4710-b2af-00c846362c47).
 
+
+
+## 📎 Author
+**Iza** – Data Analyst Enthusiast
 
